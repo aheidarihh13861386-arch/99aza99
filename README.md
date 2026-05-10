@@ -65,4 +65,10 @@ Port 443: 1 listener(s)
 > [!NOTE]
 > You could change the UUID, but I won't cover step by step guide here.
 
+## 🙏 Credits — [!["Buy Me A Coffee"](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/amiremohamadi)
+
+I am **not** the original author of this work. I only expanded on it and use it for my personal needs.
+
+The original repository could not be found, but you can support him directly using the Buy Me a Coffee link.
+
 ---
