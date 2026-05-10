@@ -14,3 +14,13 @@ else
     pgrep -x xray && echo "✅ Xray started successfully" || echo "❌ Failed to start"
 fi
 ```
+
+##
+
+63.141.252.203
+
+50.7.5.83
+
+63.141.252.203
+
+94.130.50.12
