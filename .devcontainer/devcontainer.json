@@ -24,6 +24,8 @@
   },
   "forwardPorts": [443],
   "hostRequirements": {
-    "cpus": 1
+    "cpus": 2,
+    "memory": "4gb",
+    "storage": "32gb"
   }
 }
