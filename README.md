@@ -1,4 +1,4 @@
-# GH Tun
+# GH Tun (g2ray)
 
 > Simple Xray VLESS tunnel for GitHub Codespaces
 
